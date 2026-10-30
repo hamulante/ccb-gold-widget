@@ -1,0 +1,15 @@
+*.exe
+*.dll
+*.pdb
+bin/
+obj/
+TestResults/
+
+holdings.json
+holdings.json.*.tmp
+.env
+.env.*
+
+.vs/
+*.user
+*.suo
